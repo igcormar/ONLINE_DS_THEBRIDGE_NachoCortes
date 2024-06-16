@@ -1,0 +1,11 @@
+Problemas:
+
+- Un programa que me diga qué acción elegir entre varias para comprar.
+- Un programa que me diga qué grupo de consumidores enfocarme para optimizar mi gasto en marketing.
+- Un programa que me diga a qué barrios de mi localidad enfocar la propaganda política para ganar las elecciones.
+
+Conjunto de datos.:
+
+- Datos de análisis fundamental de empresas cotizadas en bolsa.
+- Datos macro de mercados financieros y de tendencias de inversión.
+- Datos personales para poder clasificar a posibles consumidores o votantes.
